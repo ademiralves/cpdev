@@ -112,3 +112,8 @@ span{
 -o-animation: fadeIn 3s ease-in-out;
 animation: fadeIn 0.1s ease-in-out;
 }
+
+body {
+  background-image: url(sky.jpg);
+  background-size: 4000px;
+}
